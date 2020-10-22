@@ -33,3 +33,4 @@ while salir == 'n':
             pintar_piramide_inversa(filas)
         salir = input('¿Salir?(s/n): ')
         os.system('cls')
+        
